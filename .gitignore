@@ -6,8 +6,7 @@
 **/.project
 **/.cproject
 
-# STM32CubeMX
-**/*.ioc
+# STM32CubeMX (ioc 제외)
 **/*.bak
 **/*.db
 **/*.log
@@ -82,5 +81,3 @@
 **/.DS_Store
 **/Thumbs.db
 **/desktop.ini
-
-
