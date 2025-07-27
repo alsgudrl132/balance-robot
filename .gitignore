@@ -1,0 +1,86 @@
+# STM32CubeIDE 설정 및 프로젝트 파일
+**/.settings/
+**/.metadata/
+**/*.launch
+**/*.ide
+**/.project
+**/.cproject
+
+# STM32CubeMX
+**/*.ioc
+**/*.bak
+**/*.db
+**/*.log
+**/*.ac6
+
+# Keil uVision
+**/*.uvgui.*
+**/*.uvoptx
+**/*.uvprojx
+**/*.bak
+**/*.hex
+**/*.axf
+**/*.elf
+**/*.map
+**/*.lst
+**/*.sct
+**/*.iex
+
+# IAR Embedded Workbench
+**/*.eww
+**/*.ewd
+**/*.ewp
+**/*.ewt
+**/*.dep
+**/*.ewp*
+**/*.ewd*
+**/*.tmp
+
+# TrueSTUDIO / Atollic
+**/.cproject
+**/.project
+**/.launches
+**/.settings/
+**/.build/
+
+# Build output
+**/build/
+**/Build/
+**/Debug/
+**/debug/
+**/Release/
+**/release/
+**/output/
+**/*.o
+**/*.d
+**/*.map
+**/*.elf
+**/*.axf
+**/*.bin
+**/*.hex
+**/*.list
+**/*.log
+**/*.lst
+**/*.out
+**/*.srec
+**/*.su
+**/*.dep
+**/*.cmd
+
+# Object and intermediate files
+**/*.obj
+
+# Backup and temporary files
+**/*~
+**/*.swp
+**/*.swo
+**/*.bak
+**/*.tmp
+**/*.orig
+
+# System and OS files
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
+
+
